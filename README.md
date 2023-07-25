@@ -1,4 +1,5 @@
-# learn Git
+<<<<<<< HEAD
+# learn Git and learn Git 2
 
 Hello World! 
 
