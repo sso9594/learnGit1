@@ -4,4 +4,5 @@ Hello World!
 
 This is git repo to learn
 
-lol 
+this repo have these code:
+	- python hello world 
